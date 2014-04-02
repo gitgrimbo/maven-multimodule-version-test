@@ -1,0 +1,2 @@
+maven-multimodule-version-test
+==============================
